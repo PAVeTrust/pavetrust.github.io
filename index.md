@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 ---
 
 # 4th Program Analysis and Verification on Trusted Platforms (PAVeTrust) Workshop
