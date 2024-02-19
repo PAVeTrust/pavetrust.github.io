@@ -1,5 +1,5 @@
 ---
-title: "Comittees"
+title: "Committees"
 permalink: /committees/
 classes: wide
 ---
