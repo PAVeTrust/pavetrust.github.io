@@ -21,9 +21,9 @@ While the frameworks proposed in the context of (A) should help the adoption of 
 
 ## Paper format and submission link
 
-We invite the submission of papers presenting original work on topics (A) and (B) above. The accepted papers will have to be presented, in-person, by one of the authors at the workshop. Papers should be submitted as a PDF file of a maximum of 5 2-column pages, excluding well-marked references and appendices limited to 2 pages. Submissions must be generated using the 2-column ACM acmart template available at <https://www.acm.org/publications/proceedings-template>, using the [sigconf] options.
+We invite the submission of papers presenting original work on topics (A) and (B) above. The accepted papers will have to be presented, in-person, by one of the authors at the workshop. Papers should be submitted as a PDF file of a maximum of 5 two-column pages, excluding well-marked references and appendices limited to 2 pages. Submissions must be generated using the two-column ACM acmart template available at <https://www.acm.org/publications/proceedings-template>, using the [sigconf] options.
 
-Submission link: <https://easychair.org/conferences/?conf=pavetrust2023> 
+Submission link: <https://easychair.org/conferences/?conf=pavetrust2024> 
 
 ## Publication 
 
