@@ -25,11 +25,11 @@ We invite the submissions on topics (A) and (B) above in the following formats:
 - **Regular research papers** (maximum of 6 pages, excluding well-marked references and appendices) presenting original work
 - **Extended abstracts** (maximum of 2 pages, excluding well-marked references and appendices) aimed at encouraging discussion and collaboration. Extended abstracts may summarize recently published research or outline new emerging ideas. 
 
-All submissions should be submitted as a PDF file generated using the two-column ACM acmart template available at <https://www.acm.org/publications/proceedings-template>, using the [sigconf] option. The accepted submissions will have to be presented, in-person, by one of the authors at the workshop. 
+All submissions should be submitted as a PDF file generated using the two-column ACM acmart template available at <https://www.acm.org/publications/proceedings-template>, using the [sigconf,review] option. The accepted submissions will have to be presented, in-person, by one of the authors at the workshop. 
 
 **Submission link**: <https://easychair.org/conferences/?conf=pavetrust2024> 
 
 ## Publication 
 
-Submissions will go through a single-blind peer-reviewing process aimed at selecting the papers to be presented at the workshop, but also at providing detailed constructive feedback to authors. There are no formal workshop proceedings; the accepted papers and slides will only be made available to registered attendees in the workshop’s online repository.
+Submissions will go through a single-blind peer-reviewing process aimed at selecting the papers to be presented at the workshop, but also at providing detailed constructive feedback to authors. There are **no formal workshop proceedings**; the accepted papers and slides will only be made available to registered attendees in the workshop’s online repository.
 Any queries about the workshop should be addressed to workshop@tbtl.com. 
