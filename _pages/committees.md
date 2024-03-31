@@ -21,6 +21,7 @@ classes: wide
 - Marcus Völp (University of Luxembourg, Luxembourg)
 - Muhammad Usama Sardar (TU Dresden, Germany)
 - Pedro Antonino (TBTL Oxford, UK)
+- Peter Ryan (University of Luxembourg, Luxembourg)
 - Srdjan Capkun (ETH Zurich, Switzerland)
 - Vincent Cheval (Oxford University, UK)
 - ... TBD
