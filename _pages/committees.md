@@ -22,8 +22,10 @@ classes: wide
 - Muhammad Usama Sardar (TU Dresden, Germany)
 - Pedro Antonino (TBTL Oxford, UK)
 - Peter Ryan (University of Luxembourg, Luxembourg)
+- Shweta Shinde (ETH Zurich, Switzerland)
 - Srdjan Capkun (ETH Zurich, Switzerland)
 - Vincent Cheval (Oxford University, UK)
+- Zahra Tarkhani (Microsoft, UK)
 - ... TBD
 
 If you are interested in joining the PC, please contact the organizers. 
