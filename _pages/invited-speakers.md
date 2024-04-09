@@ -5,6 +5,8 @@ permalink: /invited-speakers/
 
 - **Eleni Vafeiadi Bila (Arm)**
 
+<img src="/assets/eleni.png" alt="" width="200"/>{: .align-left} 
+
 Eleni Vafeiadi Bila joined Arm in August 2023. Since then, she has been contributing on formal verification for Arm CCA. Her work involves using the HOL4 theorem prover to verify various properties of the RMM (Realm Management Monitor) specification.
 
 Before joining Arm, she pursued a Ph.D. at the University of Surrey. Her research has focused on formal methods in the context of persistent memory. This includes persistency semantics, program logics,  and verification of persistent software transactional memory algorithms using the Isabelle/HOL theorem prover. Prior to her PhD, she earned a BSc in Computer Science from the University of Piraeus and an MSc in Information Security from UCL.
