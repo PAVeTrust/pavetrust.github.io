@@ -21,3 +21,6 @@ Ian Oliver is a Professor of Cybersecurity at JYU in Finland specialising in tru
 
 - **Jo Van Bulck (KU Leuven, Belgium)**
 
+<img src="/assets/jovanbulck.jpg" alt="" width="200"/>{: .align-left} 
+
+Jo Van Bulck is a postdoctoral researcher in the DistriNet research lab at KU Leuven, Belgium. His research explores microarchitectural security limitations along the hardware-software boundary, with a particular attention for privileged side-channel attacks on trusted execution environments. Jo's research has uncovered several innovative attack vectors in commodity Intel x86 processors, as well as in low-end IoT platforms. 
