@@ -23,6 +23,8 @@ Hannes Tschofenig contributes to global standards to make the Internet more secu
 
 Ian Oliver is a Professor of Cybersecurity at JYU in Finland specialising in trusted and confidential computing. He has a long background in telecommunications security with Nokia Bell Labs.
 
+<p>  <br/> </p>
+
 - **Jo Van Bulck (KU Leuven, Belgium)**
 
 <img src="/assets/jovanbulck.jpg" alt="" width="200"/>{: .align-left} 
