@@ -12,6 +12,19 @@ This workshop intends to explore the interplay between TEE-based implementations
 
 While the frameworks proposed in the context of (A) should help the adoption of TEE-based technologies by increasing the community's confidence on the security of TEE-based systems, the applications arising in the context of (B) should introduce analysis frameworks that enjoy non-conventional properties such as confidentiality of the analysed systems and trustworthiness of the analysis outcome. It should be possible to deliver object code to users who know that the corresponding sources have passed agreed verification procedures, without the users seeing the sources or having to have trust in other parties.
 
+## Topics of interest 
+
+Topics of interest include but not limited to 
+- Protocol analysis (e.g., attestation)
+- Trusted Execution Environment (TEE)
+- Trusted Platform Module (TPM)
+- Hardware Security Modules (HSM)
+- Trusted software (OS, firmware, etc.)
+- Security and privacy analysis
+- Case studies including trusted hardware
+- Standardization process
+- Usability of formal methods tools
+
 ## Important dates
 
 - Paper submission: 5 July 
