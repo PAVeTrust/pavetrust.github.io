@@ -27,9 +27,9 @@ Topics of interest include but not limited to
 
 ## Important dates
 
-- Paper submission: 5 July 
-- Author Notification: 26 July
-- Final paper submission: 16 August 
+- Paper submission: 26 July 
+- Author Notification: 16 August
+- Final paper submission: 26 August 
 - Workshop: 9 September
 
 ## Submission format and link
