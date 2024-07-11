@@ -20,6 +20,7 @@ classes: wide
 - Lilia Georgieva (Microsoft/Heriot-Watt University, UK)
 - Marcus Völp (University of Luxembourg, Luxembourg)
 - Muhammad Usama Sardar (TU Dresden, Germany)
+- Nicolas Anciaux (Inria, France)
 - Pedro Antonino (TBTL Oxford, UK)
 - Peter Ryan (University of Luxembourg, Luxembourg)
 - Shweta Shinde (ETH Zurich, Switzerland)
