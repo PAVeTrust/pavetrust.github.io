@@ -3,6 +3,8 @@ title: "Program"
 permalink: /program/
 ---
 
+Venue: See [FM24](https://www.fm24.polimi.it/?page_id=559#venue) <br>
+Room: [Room 3.1.6](https://www.easychair.org/smart-program/FM24/room292.html) <br>
 Zoom: [https://polimi-it.zoom.us/j/93531950153?pwd=rmJoP9HbqLtG6tSBBdqjsBXB8H0Xq8.1](https://polimi-it.zoom.us/j/93531950153?pwd=rmJoP9HbqLtG6tSBBdqjsBXB8H0Xq8.1) <br>
 Meeting ID: 935 3195 0153 <br>
 Passcode: 285059
