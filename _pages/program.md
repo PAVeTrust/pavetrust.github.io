@@ -3,6 +3,11 @@ title: "Program"
 permalink: /program/
 ---
 
+Zoom: [https://polimi-it.zoom.us/j/93531950153?pwd=rmJoP9HbqLtG6tSBBdqjsBXB8H0Xq8.1](https://polimi-it.zoom.us/j/93531950153?pwd=rmJoP9HbqLtG6tSBBdqjsBXB8H0Xq8.1) <br>
+Meeting ID: 935 3195 0153 <br>
+Passcode: 285059
+
+
 * **9:00-9:05** Welcome and opening remarks by PAVeTrust organisers
 
 * **9:05-10:00** Invited talk 1: **Remote Attestation and Formal Methods - the bigger picture** by **Ian Oliver** (University of Oulu, Finland)
